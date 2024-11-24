@@ -94,7 +94,7 @@ Ensure the following libraries are installed:
 ### Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
+git clone https://github.com/adeel2208/diabetic-retinopathy-detection.git
 cd diabetic-retinopathy-detection
 pip install -r requirements.txt
 ```
