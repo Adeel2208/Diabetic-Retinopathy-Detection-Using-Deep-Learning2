@@ -161,7 +161,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For questions or suggestions, please contact:
 
-**Name**: Your Full Name  
-**Email**: your.email@example.com  
-**GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Name**: Adeel Mukhtar  
+**Email**: adeelmukhtar051@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/adeel-mukhtar-174b71270/
